@@ -55,7 +55,6 @@
     "pug-plain-loader": "^1.0.0",
     "regenerator-runtime": "^0.12.1",
     "sass": "^1.32.13",
-    "sass-loader": "^7.1.0",
     "stylus-loader": "^3.0.2",
     "typescript": "^3.0.0",
     "vue": "^2.6.11",
@@ -65,5 +64,8 @@
     "vue-template-compiler": "^2.6.11",
     "vuex": "^3.0.1",
     "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "sass-loader": "^10.5.2"
   }
 }

@@ -64,5 +64,8 @@
     "vue-template-compiler": "^2.7.16",
     "vuex": "^3.0.1",
     "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "cache-loader": "^4.1.0"
   }
 }
